@@ -1,4 +1,4 @@
-Inventory Model
+**Inventory Model**
 
 Introduction to the inventory model, it's role and purpose in the CI/CD process.
 
@@ -8,6 +8,7 @@ Inventory Workflow
 CI writes
 Promotion
 Use Cases
+
 Inventory Structure and content
 
 Inventory model keeps track of the following information:
