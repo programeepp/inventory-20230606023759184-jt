@@ -1,0 +1,15 @@
+{
+  "repository_url": "https://github.com/programeepp/hello-containers-jt.git",
+  "artifact": "us.icr.io/jt-k8-namespace/hello-containers-jt",
+  "build_number": 1,
+  "commit_sha": "97223d42bec1205f8950d7bb8a6fa9e8423c8192",
+  "name": "hello-containers-jt",
+  "pipeline_run_id": "7632efba-08a1-464b-90a5-66a583f0d101",
+  "version": "v1",
+  "signature": "sha256:2581de3d23ec4a0048cb270815d973e688a1a667d16e65a5d4f71a863f98a3db",
+  "REGISTRY_URL": "us.icr.io",
+  "REGISTRY_NAMESPACE": "jt-k8-namespace",
+  "IMAGE_NAME": "hello-containers-jt",
+  "IMAGE_TAGS": "1-main-97223d42-20230606030039",
+  "IMAGE_MANIFEST_SHA": "sha256:2581de3d23ec4a0048cb270815d973e688a1a667d16e65a5d4f71a863f98a3db"
+}
