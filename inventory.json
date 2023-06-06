@@ -1,15 +1,15 @@
 {
   "repository_url": "https://github.com/programeepp/hello-containers-jt.git",
   "artifact": "us.icr.io/jt-k8-namespace/hello-containers-jt",
-  "build_number": 1,
-  "commit_sha": "97223d42bec1205f8950d7bb8a6fa9e8423c8192",
+  "build_number": 2,
+  "commit_sha": "42c0a0d675cb840d336278c9e617f689655288d1",
   "name": "hello-containers-jt",
-  "pipeline_run_id": "7632efba-08a1-464b-90a5-66a583f0d101",
+  "pipeline_run_id": "c53b2b0b-4653-4a6c-9090-ceddee56d9c8",
   "version": "v1",
-  "signature": "sha256:2581de3d23ec4a0048cb270815d973e688a1a667d16e65a5d4f71a863f98a3db",
+  "signature": "sha256:49a8a4a439d7c47f66ff42208065d1e4f0388bdd79cbfa046d068f00f694e52c",
   "REGISTRY_URL": "us.icr.io",
   "REGISTRY_NAMESPACE": "jt-k8-namespace",
   "IMAGE_NAME": "hello-containers-jt",
-  "IMAGE_TAGS": "1-main-97223d42-20230606030039",
-  "IMAGE_MANIFEST_SHA": "sha256:2581de3d23ec4a0048cb270815d973e688a1a667d16e65a5d4f71a863f98a3db"
+  "IMAGE_TAGS": "2-main-42c0a0d6-20230606031545",
+  "IMAGE_MANIFEST_SHA": "sha256:49a8a4a439d7c47f66ff42208065d1e4f0388bdd79cbfa046d068f00f694e52c"
 }
